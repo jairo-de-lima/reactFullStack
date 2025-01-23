@@ -31,10 +31,9 @@ export const CardUsers = styled.div`
   }
   p {
     display: flex;
-
     color: #fff;
     font-size: 0.9rem;
-    font-weight: 200;
+    font-weight: 300;
   }
   @media (max-width: 750px) {
     justify-content: space-evenly;
